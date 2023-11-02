@@ -1,1 +1,3 @@
 # StylishScan
+
+#### Editado desde Codespaces
